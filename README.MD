@@ -2,6 +2,8 @@
 
 I test this with 1G file and it with no program dump. on the lap top, the process time nearly 5 minutes. <br>
 
+[![Build Status](https://travis-ci.org/i070595/emc1.svg?branch=master)](https://travis-ci.org/i070595/emc1)
+
 ###Prepare
 python install -r requirement.txt <br>
 ###how to run: <br>
