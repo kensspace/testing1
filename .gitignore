@@ -1,0 +1,12 @@
+*.pyc
+*.npy
+*.h5
+*.sgf
+testreport/*
+*.js
+*.html
+*.png
+*.dat
+*.css
+.idea/*
+
