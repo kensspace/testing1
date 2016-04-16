@@ -1,7 +1,7 @@
 # Description:
 [![Build Status](https://travis-ci.org/i070595/emc1.svg?branch=master)](https://travis-ci.org/i070595/emc1)
 
-Following the requirements, I delivered the app code and unittest code, please kindly review them. Beyond the implementation, I think more, and descript it as below, combined what I already done and plan to done.<br>
+Following the requirements, I delivered the app code and unittest code, please kindly review them. Beyond the implementation, I think more for a real product, the implementation has limitation for file content process, large file process, muticore or distribution calculation and testing framework for central manage testing scripts. So, I'm not just descprit what I implemented with but also it will with.<br>
 <br>
 This program is composed by three parts: file check, sum calculation and count calculation. The file check part is used to validate the file path, file content and file size. If there are some content that is not blank space or number, the file check function should kickoff such content. When a file size is too big to process by a machine, file check function should chunk the file and distribute the chunked file to different CPU core for multicore processing or distribute it to a cluster for distribution processing.  When we start to sum or count a file, we need to pay attention to the calculation performance, result precision and hardware requirements. <br>
 <br>
