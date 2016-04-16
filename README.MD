@@ -19,9 +19,9 @@ Function’s automation testing script is majorly implemented on the UI part or 
 <br>
 
 ## Performance testing
-We can introduced the “cProfile” to do the performance analysis.  It will identify the times a function called, function total runtime, function average run time, function cumulated run time and function cumulated average run time. It will be very helpful to find the hot point of a program.<br>
+Introduce “cProfile” to do the performance analysis.  It will identify the times a function called, function total runtime, function average run time, function cumulated run time and function cumulated average run time. It will be very helpful to find the hot point of a program.<br>
 <br>
-We can introduced the “memorty_profile” to do the memory usage analysis. It will list the each line memory usage and memory increment. It will be very helpful to track memory leak, analysis memory usage and optimize the program algorithm.<br>
+Introduce “memorty_profile” to do the memory usage analysis. It will list the each line memory usage and memory increment. It will be very helpful to track memory leak, analysis memory usage and optimize the program algorithm.<br>
 <br>
 From end to end performance testing, we can introduce Jmeter if it is exposed as Webservice. We can simulate multiple users to request the resource in a specific time slot, for example, test the response time for 100 users request the resource in 10 seconds.<br>
 <br>
