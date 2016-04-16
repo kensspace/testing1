@@ -28,11 +28,12 @@ From end to end performance testing, we can introduce Jmeter if it is exposed as
 
 ## Integration testing
 Integrate this program with the system, check whether it is work correct when there are services dependencies. This is rely on the integration environment and end to end business scenarios. In this case, the end to end scenarios is: 
-*	Input a file_path
+* Input a file_path
 * Validate the file_path
 * Sum the number in the file
 * Count the numbers in the file
-On each steps, we set a checkpoint and verify the result.<br>
+<br><br>
+On each steps, we set a checkpoint and verify the result. The testing report will be collected by Testing Center and send to stakeholders<br>
 <br>
 
 ## How to run
