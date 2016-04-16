@@ -35,6 +35,7 @@ Integrate this program with the system, check whether it is work correct when th
 * Validate the file_path
 * Sum the number in the file
 * Count the numbers in the file
+* Output the calculation results
 <br><br>
 On each steps, we set a checkpoint and verify the result. The testing report will be collected by Testing Center and send to stakeholders<br>
 <br>
