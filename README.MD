@@ -1,7 +1,7 @@
 # Overview
-[![Build Status](https://travis-ci.org/i070595/emc1.svg?branch=master)](https://travis-ci.org/i070595/emc1)
 
 Following the requirements, I delivered the app code and unittest code, please kindly review them. Beyond the implementation, I think more for a real product, the implementation has limitation for file content process, large file process, muticore or distribution calculation and testing framework for central manage testing scripts. So, I'm not just descprit what I implemented with but also it will with.<br>
+[![Build Status](https://travis-ci.org/i070595/emc1.svg?branch=master)](https://travis-ci.org/i070595/emc1)
 <br>
 
 # Description
