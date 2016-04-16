@@ -32,5 +32,10 @@ Integrate this program with the system, check whether it is work correct when th
 * Validate the file_path
 * Sum the number in the file
 * Count the numbers in the file
-On each steps, we set a checkpoint and verify the result.
+On each steps, we set a checkpoint and verify the result.<br>
+<br>
+
+## How to run
+    pip install -r requirements.txt
+    python processfile.py <data_file_path>
 
