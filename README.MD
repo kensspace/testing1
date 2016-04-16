@@ -8,7 +8,7 @@ This program is composed by three parts: file check, sum calculation and count c
 Based on above requirements, we need to have testing from below aspects:
 <br>
 
-## Unittest
+## Unit testing
 The unittest should cover more than 90%, the coverage can be detected by coveralls. And unittest covered the “CheckFile”, “SumFile” and “CountFile”.  This is used to protect our program from changes and regression.
 <br><br>
 
