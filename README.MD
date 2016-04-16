@@ -23,11 +23,11 @@ We can introduced the “cProfile” to do the performance analysis.  It will id
 <br>
 We can introduced the “memorty_profile” to do the memory usage analysis. It will list the each line memory usage and memory increment. It will be very helpful to track memory leak, analysis memory usage and optimize the program algorithm.<br>
 <br>
-From end to end performance testing, we can introduce Jmeter if it is exposed as Webservice. We can simulate multiple users to request the resource in a specific time slot, for example, test the response time for 100 users request the resource in 10 minutes.<br>
+From end to end performance testing, we can introduce Jmeter if it is exposed as Webservice. We can simulate multiple users to request the resource in a specific time slot, for example, test the response time for 100 users request the resource in 10 seconds.<br>
 <br>
 
 ## Integration testing
-Integrate this program with the system, check whether it is work correct when there is service dependency. This is rely on the integration environment and end to end business scenarios. In this case, the end to end scenarios is: 
+Integrate this program with the system, check whether it is work correct when there are services dependencies. This is rely on the integration environment and end to end business scenarios. In this case, the end to end scenarios is: 
 *	Input a file_path
 * Validate the file_path
 * Sum the number in the file
