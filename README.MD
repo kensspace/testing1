@@ -12,7 +12,7 @@ Based on above requirements, we need to have testing from below aspects:
 The unittest should cover more than 90%, the coverage can be detected by coveralls. And unittest covered the “CheckFile”, “SumFile” and “CountFile”.  This is used to protect our program from changes and regression.
 <br><br>
 
-## Funcking testing
+## Function testing
 Function test focuses on product feature testing. During feature development, function testing majorly depends on manually testing and run sanity automation testing to find regression bugs. When the feature development finished, we should delivery test case and automation testing script. <br>
 <br>
 Function’s automation testing script is majorly implemented on the UI part or Backend Service part. If our product’s architecture was B/S mode, the Selenium Webdriver + Python will be the base framework for our function testing from UI. If our product’s services were exposed as Restful web service, we can use Jmeter to simulate the HTTP requests and parse and assert the response data.<br>
