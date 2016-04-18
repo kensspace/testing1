@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains the file process code, its unittest code, performace testing methods and other testing methods. Beyond the implementation, I think more for a real product. This code has limitations for file content process, large file process, muticore or distribution calculation and testing framework for central manage testing scripts. So, I'm not just descprit what I implemented with but also it will with.<br>
+This repository contains the "fileprocess" code, its unittest code, performace testing methods and other testing methods. Beyond the implementation, I think more from a product perspection and the implementation has limitations. This code has limitations for file content process, large file process, muticore or distribution calculation and testing framework for central manage testing scripts. So, I'm not just descprit what I implemented but also it will with.<br>
 
 [![Build Status](https://travis-ci.org/i070595/emc1.svg?branch=master)](https://travis-ci.org/i070595/emc1)
 <br>
